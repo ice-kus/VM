@@ -1,0 +1,13 @@
+﻿  fMath.cpp
+  iMath.cpp
+  InOut.cpp
+  Jump.cpp
+  Memory.cpp
+  prob.cpp
+  Processor.cpp
+  WorkAddress.cpp
+  WorkStack.cpp
+  Создание кода
+  All 677 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  prob.vcxproj -> C:\Users\Я\Desktop\prob\x64\Release\prob.exe
